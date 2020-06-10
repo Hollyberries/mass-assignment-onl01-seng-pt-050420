@@ -21,8 +21,8 @@ end
 #  def initialize(attributes)
 #    if attributes
       attributes.each do |k,v|
-        self.send("#{k}=", v)
+#        self.send("#{k}=", v)
 #      end
-    end
-  end
+#    end
+#  end
 end
